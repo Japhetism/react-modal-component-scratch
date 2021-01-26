@@ -11,8 +11,8 @@ function App() {
   return (
     <Router>
       <Switch>
-          <Route exact path="/" component={HomeScreen} />
-          <Route exact component={ErrorScreeen} />
+        <Route exact path="/" component={HomeScreen} />
+        <Route exact component={ErrorScreeen} />
       </Switch>
     </Router>
   );
