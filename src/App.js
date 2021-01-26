@@ -3,7 +3,6 @@ import {
   BrowserRouter as Router,
   Route,
   Switch,
-  Redirect
 } from 'react-router-dom'
 import HomeScreen from '../src/screens/home'
 import ErrorScreeen from '../src/screens/error'
